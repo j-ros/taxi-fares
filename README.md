@@ -30,6 +30,8 @@ sequential and cannot be so easily parallelized. The XGBoost implementation in P
  - Distance from pickup to dropoff
  - Information on the date (day, hour, month, day of week, year)
  - Trips that start or end at an airport.
+ 
+ 5) Specifying the exact format to the to_datetime() function greatly helps in speeding up date conversion.
   
 ## Future improvements
 
