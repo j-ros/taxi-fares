@@ -1,8 +1,6 @@
 # New York City Taxi Fare Prediction
 
-This repository contains the submission notebook for the Kaggle competition [New York City Taxi Fare Prediction]
-(https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) from Google Cloud. The objective was to get some familiarity with the [XGBoost]
-(https://xgboost.readthedocs.io/en/latest/index.html) library in Python.
+This repository contains the submission notebook for the Kaggle competition [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) from Google Cloud. The objective was to get some familiarity with the [XGBoost](https://xgboost.readthedocs.io/en/latest/index.html) library in Python.
 
 ## Submission results
 
