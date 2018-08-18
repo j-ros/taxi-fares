@@ -23,8 +23,7 @@ sequential and cannot be so easily parallelized. The XGBoost implementation in P
   - Rows with values for the pick up and drop off coordinates far away from NYC.
   - Rows with a passenger count of up to 200.
   
- 4) Feature engineering was important to improve the performance of the model. According to the [NYC Taxi & Limousine Commission]
- (http://www.nyc.gov/html/tlc/html/passenger/taxicab_rate.shtml) the following variables influence the value of the fare and were added to the dataset:
+ 4) Feature engineering was important to improve the performance of the model. According to the [NYC Taxi & Limousine Commission](http://www.nyc.gov/html/tlc/html/passenger/taxicab_rate.shtml) the following variables influence the value of the fare and were added to the dataset:
  - Distance from pickup to dropoff
  - Information on the date (day, hour, month, day of week, year)
  - Trips that start or end at an airport.
