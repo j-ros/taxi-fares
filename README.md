@@ -4,7 +4,7 @@ This repository contains the submission notebook for the Kaggle competition [New
 
 ## Submission results
 
-- 26/325 with a RMSE score of 3.03992 on the public leaderboard (05/08/2018)
+- 293/1488 with a RMSE score of 3.03992 on the public leaderboard (28/09/2018)
 
 ## What I have learned
 
